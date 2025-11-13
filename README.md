@@ -1,8 +1,11 @@
 1)Implement a Perceptron from Scratch
-o Implement a single-layer perceptron using NumPy.
-o Train it on linearly separable data (e.g., AND/OR gate or
+
+Implement a single-layer perceptron using NumPy.
+
+Train it on linearly separable data (e.g., AND/OR gate or
 synthetic dataset).
-o Visualize decision boundary.
+
+Visualize decision boundary.
 
 
 2)Build and Train a Feedforward Neural Network
