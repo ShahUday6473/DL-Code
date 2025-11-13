@@ -1,4 +1,5 @@
-1)Implement a Perceptron from Scratch
+1)
+Implement a Perceptron from Scratch
 
 Implement a single-layer perceptron using NumPy.
 
@@ -11,7 +12,8 @@ Visualize decision boundary.
 
 
 
-2)Build and Train a Feedforward Neural Network
+2)
+Build and Train a Feedforward Neural Network
 
 Use PyTorch or TensorFlow to build an MLP.
 
@@ -25,7 +27,8 @@ Report accuracy and loss curves.
 
 
 
-3)Experiment with Regularization Techniques
+3)
+Experiment with Regularization Techniques
 
 Train a model with and without L2 regularization.
 
@@ -37,7 +40,8 @@ Visualize training/validation loss and accuracy.
 
 
 
-4)Visualize and Compare Activation Functions
+4)
+Visualize and Compare Activation Functions
 
 Train the same MLP using Sigmoid, Tanh, and ReLU.
 
@@ -48,7 +52,8 @@ Discuss vanishing/exploding gradient issues.
 
 
 
-5)Build a CNN for Image Classification
+5)
+Build a CNN for Image Classification
 
 Build a simple CNN (e.g., 2 conv layers + FC) for CIFAR-10
 or MNIST.
@@ -60,7 +65,8 @@ Use basic data augmentation
 
 
 
-6)Implement an RNN or LSTM for Text Classification
+6)
+Implement an RNN or LSTM for Text Classification
 
 Use IMDB sentiment classification dataset.
 
@@ -71,7 +77,8 @@ Plot accuracy and visualize example predictions.
 
 
 
-7)Transfer Learning with a Pretrained CNN
+7)
+Transfer Learning with a Pretrained CNN
 
 Load a pretrained model (e.g., ResNet50 or VGG16).
 
@@ -83,7 +90,8 @@ Freeze layers and experiment with performance.
 
 
 
-8)Hyperparameter Tuning and Model Comparison
+8)
+Hyperparameter Tuning and Model Comparison
 
 Choose any dataset and architecture.
 
